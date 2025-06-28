@@ -1,0 +1,23 @@
+
+---------------------------------------------
+REQUIREMENTS
+---------------------------------------------
+Python 3.x is required.
+
+Install required packages:
+
+    pip install -r requirements.txt
+
+If you don't have a requirements.txt file, you can install manually:
+
+    pip install colorama requests
+
+Note: tkinter is included with Python on most systems (especially Windows).
+
+---------------------------------------------
+FILES
+---------------------------------------------
+audit.py         - CLI version
+audit_gui.py     - GUI version
+README.md        - Project documentation
+requirements.txt - Dependencies
